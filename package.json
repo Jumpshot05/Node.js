@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json2xls": "^0.1.2",
+    "node": "^19.0.0",
+    "simple-excel-to-json": "^2.3.0",
+    "xls2json": "^0.0.3"
+  }
+}
